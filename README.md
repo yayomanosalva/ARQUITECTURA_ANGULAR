@@ -1,5 +1,7 @@
 # ARQUITECTURAANGULAR
 
+step by step angular architect, core guards, interceptors, models, services, components, directives, pipes
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Development server
@@ -34,6 +36,7 @@ ng generate component article/articleList
 ng generate component article/articleDetail
 ng generate component admin/admin-layout
 ng generate component admin/dashboard
+ng generate component admin/calendar
 ng generate component auth/login
 ng generate component auth/register
 ng generate service data
